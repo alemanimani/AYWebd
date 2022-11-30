@@ -76,9 +76,9 @@ td{
 }
 .overlayText {
     
-    background: -webkit-linear-gradient(rgb(151, 229, 231), rgb(226, 114, 211));
+/*     background: -webkit-linear-gradient(rgb(151, 229, 231), rgb(226, 114, 211));
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    -webkit-text-fill-color: transparent; */
     position: relative;
     transform: translateY(0em)
 }
